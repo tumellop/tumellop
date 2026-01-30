@@ -83,7 +83,7 @@
 <a href="https://x.com/saint_ree" target="_blank">
   <img src="https://img.shields.io/badge/X-F71BA0?style=for-the-badge&logo=x&logoColor=white" alt="X logo" />
 </a>
-<a href="https://instagram.com/tumellop" target="_blank">
+<a href="https://instagram.com/tumello.p" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-F71BA0?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" />
 </a>
 <a href="https://www.linkedin.com/in/tumellop/" target="_blank">
