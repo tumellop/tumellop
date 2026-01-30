@@ -23,11 +23,27 @@
 └─────────────────────────────────────────────────────┘
 
 ```
+### `>`&emsp; 📱 Socials
 
-### 🏆 Competition Highlights
+###
 
-* 🥈 **2nd Place** - PAICTA Cybersecurity 4D 2025
-* 🥉 **3rd Place** - SANReN Cyber Security Challenge 2025 (Team N0T0R10S)
+<div align="left">
+  <a href="https://twitter.com/saint_ree" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/tumellop" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tumellop/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/prxncessza" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/prxncessZA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
+</div>
 
 ---
 
@@ -56,11 +72,34 @@
 
 ---
 
-## 🤝 Let's Connect
+### `>`&emsp; 🤝 Let's Connect
 
 <div align="center">
 
-*"Great software is built one elegant solution at a time"* ✨
+*"The quieter you become, the more you are able to hear."* 🛡️✨
+
+<br>
+
+<a href="https://x.com/saint_ree" target="_blank">
+  <img src="https://img.shields.io/badge/X-F71BA0?style=for-the-badge&logo=x&logoColor=white" alt="X logo" />
+</a>
+<a href="https://instagram.com/tumellop" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-F71BA0?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" />
+</a>
+<a href="https://www.linkedin.com/in/tumellop/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-F71BA0?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
+</a>
+<a href="https://discordapp.com/users/prxncessza" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-F71BA0?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo" />
+</a>
+<a href="https://tryhackme.com/p/prxncessZA" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-F71BA0?style=for-the-badge&logo=tryhackme&logoColor=white" alt="tryhackme logo" />
+</a>
+
+<br>
+
+
+**⭐ If you find my work interesting, consider giving it a star!**
 
 </div>
 
