@@ -19,7 +19,7 @@
 
 ### `>`&emsp; 👨‍💻 About Me
 
-- 🌱 I’m currently learning Angular MEAN stack
+- 🌱 I’m currently learning C/C++
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2026 Goal: Document more!!
 - ⚡ Fun fact: I love to play PUBG Mobile and Apex Legends 
